@@ -22,6 +22,10 @@ This application uses Jest for running unit tests. The application's tests will 
 
 ![](images/screenshot/sample.jpg)
 
+## Video Walkthrough
+
+Link for video: https://youtu.be/JJ1ZJlQwTYA
+
 ## Application structure
 
 Directory Structure:
