@@ -20,7 +20,7 @@ This application uses Jest for running unit tests. The application's tests will 
 
 ## Screenshot of HTML Sample
 
-
+![](images/screenshot/sample.jpg)
 
 ## Application structure
 
